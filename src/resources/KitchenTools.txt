@@ -1,0 +1,5 @@
+Plate,100
+Glass,100
+Cutlery,100
+Tray,30
+Napkin,400

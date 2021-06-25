@@ -1,0 +1,10 @@
+Mediterranean fish soup,40
+Chicken (free range) soup,40
+Caesar salad,30
+Salmon steak,30
+Rib-eye,30
+Crab made in pan with garlic and chilli,20
+Child Menu 1 - fried chicken with french fries,15
+Child Menu 2 - wiener schnitzel with pommes frites,15
+Cheesecake,10
+Chocolate cake,10

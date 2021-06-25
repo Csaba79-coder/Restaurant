@@ -1,0 +1,6 @@
+Dreher gold,80, alcoholic
+Pilsner,80, alcoholic
+Tokaji aszu,40, alcoholic
+Coca-Cola,100, non-alcoholic
+Fanta orange,70, non-alcoholic
+Kinley ginger ale,60, non-alcoholic

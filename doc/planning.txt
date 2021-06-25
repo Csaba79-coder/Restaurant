@@ -1,0 +1,34 @@
+we need tables!
+
+we need to tell which table orders what
+
+quantity checker (have or not)
+quantity changing
+
+4 table (table indoor / outdoor)
+
+1. table 4 guests
+2. table 4 guests
+3. table 2 guests
+4. table 2 guests
+
+scanner choose a table number:
+choose an element to order ... say we have or we cannot serve
+
+table 2
+coca cola 1
+dreher 1
+write in txt file
+
+and order reads from txt
+
+Menu:
+
+Table number option: 1, 2, 3
+
+Choose drink: Dreher - 1, Pilsner - 2, Tokaji aszu - 3, Coca-cola - 4, Fanta - 5, Kinley ginger ale - 6
+Choose amount: 1
+
+table how many people (but only as info)
+
+MENÜ!!! a programhoz
