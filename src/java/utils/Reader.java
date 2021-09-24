@@ -19,7 +19,7 @@ public class Reader {
         List<StorageElement> myStorageElement = new ArrayList<>();
         for (String line; (line = bufferedReader.readLine()) != null; ) {
             String[] arrOfStr = line.split(","); // trim when I create Object of it!
-            if (arrOfStr.length > 2) {
+            if (arrOfStr.length == 3 && arrOfStr[2].contains("alcoholic")) {
                 Drink drink = new Drink(arrOfStr[0], Integer.parseInt(arrOfStr[1]), (arrOfStr[2].trim().equals("alcoholic")));
                 myStorageElement.add(drink);
             } else {
